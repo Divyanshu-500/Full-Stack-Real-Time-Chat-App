@@ -1,4 +1,4 @@
-# ✨ Full Stack Realtime Chat App ✨
+# 💬 Full Stack Realtime Chat App 💬
 
 ![image](https://github.com/user-attachments/assets/2833375a-1dcd-4a46-ab8b-626dd05063f4)
 ![image](https://github.com/user-attachments/assets/7ab9be1b-d0c6-4657-b84c-06bd45b8f2d8)
@@ -43,3 +43,11 @@ npm run build
 ```shell
 npm start
 ```
+
+
+<h2>Show Your Support</h2>
+
+If you find this project helpful or inspiring, don’t forget to **star ⭐️ the repo** — it really helps!
+
+<h1 align="center">💬 Keep Building, Keep Exploring! 💬</h1>
+
